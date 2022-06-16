@@ -1,9 +1,3 @@
-Netlify Build plugin {{name}} - {{description}}.
+# Deprecated - use the official quarto netlify plugin!
 
-# Install
-
-Please install this plugin from the Netlify app.
-
-# Configuration
-
-The following `inputs` options are available.
+Plugin is now available at [https://github.com/quarto-dev/netlify-plugin-quarto](https://github.com/quarto-dev/netlify-plugin-quarto)
